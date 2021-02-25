@@ -4,7 +4,7 @@
 
 ## 사용방법
 ``` bash
-python model_build.py
+python build_model.py
 ```
 
 ## 출력결과
