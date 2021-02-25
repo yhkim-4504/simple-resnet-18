@@ -3,7 +3,7 @@
 * 모델 생성 후  진행과정에 따른 shape를 출력합니다.
 
 ## 출력결과
-```{.python}
+``` python
 input shape: torch.Size([1, 3, 256, 256]) 
 conv1 shape: torch.Size([1, 64, 128, 128])
 bn1 shape: torch.Size([1, 64, 128, 128])
