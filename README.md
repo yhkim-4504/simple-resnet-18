@@ -2,6 +2,11 @@
 * torchvision에서 resnet-18 부분만 정리해 구현한 코드입니다.
 * 모델 생성 후  진행과정에 따른 shape를 출력합니다.
 
+## 사용방법
+``` bash
+python model_build.py
+```
+
 ## 출력결과
 ``` python
 input shape: torch.Size([1, 3, 256, 256]) 
